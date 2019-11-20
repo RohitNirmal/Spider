@@ -109,6 +109,7 @@ p {
     text-align: center;
     align-items: center;
     z-index: 10;
+
 }
 
 .contentBox h1 {
@@ -241,7 +242,7 @@ p {
 }
 
 .sec3 .headerText {
-    padding: 100px;
+    padding: 100px 0px;
     justify-content: center;
 }
 
